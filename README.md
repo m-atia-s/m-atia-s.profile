@@ -15,7 +15,7 @@ My journey in Information technology has led me to develop a passion for IT supp
 | Network Monitoring | <a href="https://google.com">Detection Lab</a>|
 | Network Design      | Microsoft Visio|
 | Packet Tracer         | Routing and Switching Lab|
-| Personal Development Certification Notes  | Articles |
+| Personal Development Certification Notes  | <a href="https://google.com](https://github.com/m-atia-s/AZ-900-Notes">AZ-900</a>| 
 
 ## Tools
 

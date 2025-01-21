@@ -22,6 +22,8 @@ My journey in Information technology has led me to develop a passion for IT supp
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Packet%20Tracer-1679A7?&style=for-the-badge&logo=Packet%20Tracer&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Meraki-1679A7?&style=for-the-badge&logo=Cisco%20Meraki&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -38,9 +40,11 @@ My journey in Information technology has led me to develop a passion for IT supp
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--900-4D4D4D?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITF%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
-- Routing Protocols Network design
-- Switching Protocols
+- Routing Protocols Topology
+- Switching Protocols Topology
 - TryHackMe Labs

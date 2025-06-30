@@ -1,4 +1,4 @@
-# Hello, I'm Matias from TorosTechnology.com
+# G'day!, I'm Matias from TorosTechnology.com
 <a href="https://www.linkedin.com/in/m-atia-s"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ICT professional with strong technical expertise and excellent communication skills in both Spanish and English. Passionate about empowering users to leverage technology effectively. Committed to continuous learning, innovation, and delivering solutions that drive meaningful results.
@@ -11,7 +11,7 @@ My journey in information technology has fueled a passion for IT support and a c
 
 | Skills                                         | Projects         |
 |-----------------------------------------------|----------------------------|
-| Microsoft 365 Admin Centers          | <a href="https:torostechnology.com">1</a>|
+| Microsoft 365 Admin Center          | <a href="https:torostechnology.com"></a>|
 | Meraki Network Monitoring | <a href="https:torostechnology.com">2</a>|
 | Network Design      | Microsoft Visio|
 | Packet Tracer         | Routing and Switching Labs|
@@ -36,8 +36,8 @@ My journey in information technology has fueled a passion for IT support and a c
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="(https://img.shields.io/badge/Certification-CCNA-blue?logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-AZ--900-4D4D4D?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-ITF%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
